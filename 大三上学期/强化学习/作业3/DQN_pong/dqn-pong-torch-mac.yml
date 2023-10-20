@@ -1,0 +1,14 @@
+name: dqn-pong
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - torchvision
+  - torchaudio
+  - pytorch
+  - matplotlib
+  - gym
+  - tensorboard
+prefix: /Users/haojun/anaconda3/envs/dqn-pong-torch
