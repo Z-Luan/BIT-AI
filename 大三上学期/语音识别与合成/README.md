@@ -4,4 +4,4 @@
 - 授课PPT：中文
 - 课程作业量：一次大作业 (完成一个指定项目或自主选择项目)
 - 有无考试：无
-- 作者建议：可以领取HW代金券兑换计算资源，但意味着要完成基于MindSpore框架的实验🤪。MindSpore框架刚入手还是比较不习惯的，可能花费较长时间。作者在CSDN社区开源了若干个基于**MindSpore框架**的实验 (包含代码介绍，**适合小白体质**，入门不是问题！)链接如下，https://blog.csdn.net/shsbdbsj?type=blog🤩。
+- 作者建议：可以领取HW代金券兑换计算资源，但意味着要完成基于MindSpore框架的实验🤪。MindSpore框架刚入手还是比较不习惯的，可能花费较长时间。作者在CSDN社区开源了若干个基于**MindSpore框架**的实验 (包含代码介绍，**适合小白体质**，入门不是问题🤩！)链接如下，https://blog.csdn.net/shsbdbsj?type=blog。
