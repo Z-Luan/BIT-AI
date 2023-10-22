@@ -18,16 +18,16 @@
 
   ```python
   ## 方式一 ##
-      # vocab_size：词汇表大小
-      # ninp：词嵌入维度
-      # embedding_weight：预训练词向量
-      self.embed = nn.Embedding(vocab_size, ninp)
-      self.embed.weight.data.copy_(embedding_weight)
-      self.embed.weight.requires_grad = True # 是否进行Freeze
+  # vocab_size：词汇表大小
+  # ninp：词嵌入维度
+  # embedding_weight：预训练词向量
+  self.embed = nn.Embedding(vocab_size, ninp)
+  self.embed.weight.data.copy_(embedding_weight)
+  self.embed.weight.requires_grad = True # 是否进行Freeze
           
-      ## 方式二 ##
-      # embedding_weight：预训练词向量
-      self.embed = nn.Embedding.from_pretrained(embedding_weight, freeze=False)
+  ## 方式二 ##
+  # embedding_weight：预训练词向量
+  self.embed = nn.Embedding.from_pretrained(embedding_weight, freeze=False)
   ```
 
 - **使用Hugging Face管道应用NLP预训练模型** (以Bert为例)
