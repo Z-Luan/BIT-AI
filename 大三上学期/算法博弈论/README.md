@@ -1,7 +1,6 @@
 # 算法博弈论😊
 
 - 课程性质：选修课 
-
 - 授课形式：英文PPT
 - 授课内容：Linear Programming，Nash Equilibrium，Fair Division等
 - 课程作业量：2次作业 (英文问题，英文作答) + 1次文献阅读 (要求英文)
