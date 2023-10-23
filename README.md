@@ -38,7 +38,7 @@
 
   P.S. 课程作业变化很快，碰到算运气😂
 
-- 往年试卷和复习资料等可以看这👉[19级AI专业WZQ学长](https://github.com/Robin-WZQ/BIT-AI-Review)
+- 往年试卷和复习资料等可以看👉友链
 
 - 若有其他想了解的信息、想拥有的资料，欢迎联系我 BIT2020AIZL@163.com 或在 issues 提出
 
